@@ -1,10 +1,17 @@
 {
 	"name": "tate-cli",
 	"version": "1.0.2",
+	"description": "Get to know Rich via `npx tate`",
 	"bin": {
 		"tate": "index.js"
 	},
 	"dependencies": {
-		"clear-any-console": "^1.16.2"
-	}
+		"cli-welcome": "^2.2.2"
+	},
+	"keywords": [
+		"Richard Tate",
+		"richard",
+		"tate",
+		"rich"
+	]
 }

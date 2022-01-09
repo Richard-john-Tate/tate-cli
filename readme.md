@@ -1,3 +1,11 @@
-# Simple cli app
+`npx tate-cli`
 
-This app console log's out my name and what i do.
+> Get to know Richard Tate using your command line with node.js
+
+## Usage
+
+To get started, run the following command:
+
+```sh
+npx tate-cli
+```
