@@ -1,6 +1,6 @@
 {
 	"name": "tate-cli",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Get to know Rich via `npx tate`",
 	"bin": {
 		"tate": "index.js"
