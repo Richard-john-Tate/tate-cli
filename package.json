@@ -1,0 +1,7 @@
+{
+	"name": "tate-cli",
+	"version": "1.0.0",
+	"bin": {
+		"tate": "index.js"
+	}
+}
